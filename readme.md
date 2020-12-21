@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm James Kilby</h1>
-<h3 align="center">I work primarily in the Virtualisation/Cloud infrastructure segments</h3>
+<h3 align="center">I'm a Liverpool based geek working in the Virtualization space primarily around the VMware stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameskilbynet&label=Profile%20views&color=0e75b6&style=flat" alt="jameskilbynet" /> </p>
 
