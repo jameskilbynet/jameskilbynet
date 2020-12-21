@@ -18,3 +18,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> </p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jameskilbynet)](https://github.com/anuraghazra/github-readme-stats)
