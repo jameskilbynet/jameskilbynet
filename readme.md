@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm James Kilby</h1>
-<h3 align="center">I'm currently based in Dorset in the Uk,  Working for VMware in the VMware Cloud on AWS Global Architecture Team</h3>
+<h3 align="center">I'm currently based in Dorset in the Uk,  Working for Broadcom in the VMware Cloud Global Architecture Team focusing on AWS based Hyper-Scaler solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jameskilbynet&label=Profile%20views&color=0e75b6&style=flat" alt="jameskilbynet" /> </p>
 
